@@ -11,7 +11,7 @@ namespace SQLVsLINQ
         static void Main(string[] args)
         {
             LINQToSQL ins = new LINQToSQL();
-            ins.exer2();
+            ins.exer5();
         }
     }
 }
